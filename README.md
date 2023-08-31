@@ -16,7 +16,7 @@ go run main.go checkHost --host="http://api.nbp.pl/api/exchangerates/rates/a/eur
 
 ### currencyCheck command
 ```
-go run main.go currencyCheck --host="http://api.nbp.pl/api/exchangerates/rates/a/eur/last/100/?format=json" --x=5 --y=4 
+go run main.go currencyCheck --x=5 --y=4 
 ```
 
 
